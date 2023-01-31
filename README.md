@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmnchild&theme=nord&show_icons=true)
 
 
-- currently working on **creating an IRC**
+- currently working on **Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
