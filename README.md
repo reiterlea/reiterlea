@@ -1,11 +1,13 @@
 <h1 align="center">hi, i'm léa</h1>
 <h3 align="center">full-stack web developer student</h3>
+  <br>
+  <br>
   
   <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmnchild&theme=nord&show_icons=true" />
   </div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xmnchild&repo=convoychat" />
-
+  
+  
 <br>
 <br>
 <p align="center">
