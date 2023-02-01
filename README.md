@@ -4,6 +4,12 @@
   <br>
   
   <p align="center">
+                 ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
+  </p>
+  <br>
+  <br>
+  
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmnchild&theme=nord&show_icons=true" />
   </p>
   
