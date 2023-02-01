@@ -1,9 +1,9 @@
 <h1 align="center">hi, i'm léa</h1>
 <h3 align="center">full-stack web developer student</h3>
 
-<p align="center">
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmnchild&theme=nord&show_icons=true)
-  </p>
+  </div>
 
 <br>
 <br>
