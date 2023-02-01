@@ -3,9 +3,9 @@
   <br>
   <br>
   
-  <div>
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmnchild&theme=nord&show_icons=true" />
-  </div>
+  </p>
   
   
 <br>
