@@ -12,7 +12,7 @@
 </p>
 
 
-
+<h3 align="left">Technologies mastered:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,bootstrap,css,express,nodejs,mongodb,figma,html,js,java,laravel,linux,mysql,php,py,react,tailwind,vscode,xd,docker,ansible,vim&theme=light" />
