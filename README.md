@@ -18,6 +18,6 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,bootstrap,css,express,nodejs,mongodb,figma,html,js,java,laravel,linux,mysql,php,py,react,tailwind,vscode,xd,docker,ansible&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,bash,bsd,gitlba,idea,jquery,raspberrypi,arduino,bootstrap,css,express,nodejs,mongodb,figma,html,js,java,laravel,linux,mysql,php,py,react,tailwind,vscode,xd,docker,ansible&theme=light&perline=11" />
   </a>
 </p>
