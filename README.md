@@ -2,8 +2,6 @@
 <h3 align="center"><ins>full-stack engineering student</ins></h3>  
   <br>
   <br>
-  ![giphy](https://github.com/xmnchild/xmnchild/assets/98850162/3e5c5fc7-3287-407d-a4c3-4661b1acf59f)
-
   <p align="center">
                  ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
   </p>
@@ -12,7 +10,7 @@
 ```js
 const lea = {
     pronouns: "she" | "her",
-    code: ["Javascript", "PHP"],
+    code: ["Javascript", "PHP", "SQL],
     askMeAbout: ["web dev", "tech", "app dev", "music", "video games"],
     technologies: {
         backEnd: {
@@ -23,6 +21,7 @@ const lea = {
         mobileApp: {
             cross-platform: ["React Native"]
         },
+        ux/ui : ["Figma"]
         devOps: ["Docker", "Jenkins", "GitLab", "Ansible", "Github Actions"],
         databases: ["MongoDB", "MySQL", "MariaDB", "Postgres"],
     },
@@ -30,6 +29,9 @@ const lea = {
     currentFocus: "Right now, I'm trying to learn Typescript to enhance my Javascript development.",
 };
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmnchild&theme=buefy&show_icons=true" />
@@ -38,8 +40,3 @@ const lea = {
   
 <br>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,postman,jenkins,gitlab,idea,jquery,raspberrypi,arduino,bootstrap,css,express,nodejs,mongodb,figma,html,js,java,laravel,linux,mysql,php,py,react,vue,tailwind,vscode,symfony,docker,ansible&theme=light&perline=15" />
-  </a>
-</p>
