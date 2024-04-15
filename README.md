@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm léa 🌙</h1>
 <h3 align="center"><ins>full-stack engineering student</ins></h3>  
-  <br>
-  ![](https://github.com/xmnchild/xmnchild/blob/main/giphy.gif)
+  <div align="center">  <img src="https://github.com/xmnchild/xmnchild/blob/main/1702415560_StardewValleyHappyGreyCat.png" height="140" width="100"/>
+</div>
   <p align="center">
                  ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
   </p>
