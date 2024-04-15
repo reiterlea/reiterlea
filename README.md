@@ -1,5 +1,10 @@
 <h1 align="center">hi, i'm léa 🌙</h1>
 <h3 align="center"><ins>full-stack engineering student</ins></h3>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/lea-reiter22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lea.reiter@outlook.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+
+</div>
   <div align="center">  <img src="https://github.com/xmnchild/xmnchild/blob/main/1702415560_StardewValleyHappyGreyCat.png" height="140" width="100"/>
 </div>
   <p align="center">
