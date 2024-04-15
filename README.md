@@ -25,7 +25,7 @@ const lea = {
         },
         frontEnd: ["React", "Vue", "Next", "Tailwind"],
         mobileApp: {
-            cross-platform: ["React Native"]
+            crossPlatform: ["React Native"]
         },
         ux/ui : ["Figma"],
         devOps: ["Docker", "Jenkins", "GitLab", "Ansible", "Github Actions"],
