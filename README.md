@@ -16,7 +16,7 @@
 ```js
 const lea = {
     pronouns: "she" | "her",
-    code: ["Javascript", "PHP", "SQL],
+    code: ["Javascript", "PHP", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "video games"],
     technologies: {
         backEnd: {
