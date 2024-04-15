@@ -21,7 +21,7 @@ const lea = {
         mobileApp: {
             cross-platform: ["React Native"]
         },
-        ux/ui : ["Figma"]
+        ux/ui : ["Figma"],
         devOps: ["Docker", "Jenkins", "GitLab", "Ansible", "Github Actions"],
         databases: ["MongoDB", "MySQL", "MariaDB", "Postgres"],
     },
