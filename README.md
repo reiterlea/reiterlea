@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm léa 🌙</h1>
 <h3 align="center"><ins>full-stack engineering student</ins></h3>  
   <br>
-  <br>
+  ![](https://github.com/xmnchild/xmnchild/blob/main/giphy.gif)
   <p align="center">
                  ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
   </p>
