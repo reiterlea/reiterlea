@@ -3,10 +3,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lea-reiter22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:lea.reiter@outlook.fr"><img src="https://img.shields.io/badge/Contact-2A2A2A?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-
 </div>
+<br>
   <div align="center">  <img src="https://github.com/xmnchild/xmnchild/blob/main/1702415560_StardewValleyHappyGreyCat.png" height="140" width="100"/>
 </div>
+<br>
   <p align="center">
                  ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
   </p>
