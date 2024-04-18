@@ -18,4 +18,4 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
-          IGNORED_REPOS: "universem_web, xmnchild"
+          IGNORED_REPOS: "universem_web"
