@@ -65,16 +65,17 @@ Sunday                   236 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   2 hrs 31 mins       ██████████████████████░░░   90.00 % 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+universem_web            2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
