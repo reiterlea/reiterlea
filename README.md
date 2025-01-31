@@ -16,11 +16,11 @@
 ```js
 const lea = {
     pronouns: "she" | "her",
-    code: ["Javascript", "PHP", "SQL"],
+    code: ["Typescript", "PHP", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "video games"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "Nest"],
+            js: ["Node", "Fastify", "Express", "Nest", "Strapi"],
             php: ["Symfony", "Laravel"]
         },
         frontEnd: ["React", "Vue", "Next", "Tailwind"],
@@ -32,7 +32,7 @@ const lea = {
         databases: ["MongoDB", "MySQL", "MariaDB", "Postgres"],
     },
     architecture: ["MVC Architecture", "Single Page Applications"],
-    currentFocus: "Right now, I'm trying to learn Typescript to enhance my Javascript development.",
+    currentFocus: "Right now, I'm building something great... be patient.",
 };
 ```
 <!--START_SECTION:waka-->
