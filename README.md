@@ -36,7 +36,7 @@ const lea = {
 };
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%203%20mins-blue)
 
 **I'm an Early 🐤** 
 
